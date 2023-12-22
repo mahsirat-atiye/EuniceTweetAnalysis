@@ -3,6 +3,7 @@
 
 
 # README - Data Pipeline
+This repository pertains to a Twitter data pipeline project involving tweet analysis, developed as part of an interview question for Eunice.
 
 ## Repository structure
 
